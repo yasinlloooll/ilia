@@ -1,5 +1,4 @@
 {
-  "tourist_attractions": [
     {
       "name": "آبشار کبودوال",
       "location": "علی‌آباد کتول",
@@ -64,5 +63,4 @@
       "season": "همه‌فصل",
       "distance_from_grgan_km": 120
     }
-  ]
 }
